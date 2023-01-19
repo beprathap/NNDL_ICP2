@@ -1,5 +1,6 @@
 # NNDL_ICP2
 Second Assignment
+Recording Link: https://drive.google.com/drive/folders/1uivoghegG77lIvv360Hcm-HfWlH-8d0H?usp=sharing
 
 Task 1: Write a program that takes two strings from the user: first_name, last_name. Pass these variables to 
 fullname function that should return the (full name). Write function named “string_alternative” that returns every other char in the full_name string.
